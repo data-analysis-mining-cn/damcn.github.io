@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2020-01-16T03:29:07.780Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/wiki/20190809/</loc>
     
     <lastmod>2020-01-16T03:18:14.191Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/wiki/20190807/</loc>
+    
+    <lastmod>2020-01-16T03:18:14.190Z</lastmod>
     
   </url>
   
@@ -23,21 +37,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/wiki/20190807/</loc>
-    
-    <lastmod>2020-01-16T03:18:14.190Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/wiki/20190817/</loc>
-    
-    <lastmod>2020-01-16T03:18:13.382Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/wiki/20190819/</loc>
     
     <lastmod>2020-01-16T03:18:13.382Z</lastmod>
     
@@ -93,6 +93,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/wiki/20190819/</loc>
+    
+    <lastmod>2020-01-16T03:18:13.382Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/wiki/20190903/</loc>
     
     <lastmod>2020-01-16T03:18:11.074Z</lastmod>
@@ -115,13 +122,6 @@
   
   <url>
     <loc>http://yoursite.com/categories/index.html</loc>
-    
-    <lastmod>2020-01-16T02:23:20.351Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2020-01-16T02:23:20.351Z</lastmod>
     
