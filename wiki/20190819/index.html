@@ -3,20 +3,24 @@
 <head>
     <meta charset="utf-8">
     
-    <title>Tags | 数据统计分析与挖掘</title>
+    <title>约瑟夫环问题 | 数据统计分析与挖掘</title>
     
     
-        <meta name="keywords" content="Tags" />
+        <meta name="keywords" content="算法,约瑟夫环" />
     
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta property="og:type" content="website">
-<meta property="og:title" content="Tags">
-<meta property="og:url" content="http://yoursite.com/tags/index.html">
+    <meta name="description" content="问题有 n 个人围成一圈，顺序排号。从第一个人开始报数（从 1 到 3 报数），凡报到 3 的人退出圈子，问最后留下的是原来第几号的那位。 跟群名似乎无关，但是感觉挺好玩 🤪 回答C 语言模拟 @capwill2 1234567891011121314151617181920212223242526272829303132#include &lt;iostream&gt;using namesp">
+<meta property="og:type" content="article">
+<meta property="og:title" content="约瑟夫环问题">
+<meta property="og:url" content="http://yoursite.com/wiki/20190819/index.html">
 <meta property="og:site_name" content="数据统计分析与挖掘">
+<meta property="og:description" content="问题有 n 个人围成一圈，顺序排号。从第一个人开始报数（从 1 到 3 报数），凡报到 3 的人退出圈子，问最后留下的是原来第几号的那位。 跟群名似乎无关，但是感觉挺好玩 🤪 回答C 语言模拟 @capwill2 1234567891011121314151617181920212223242526272829303132#include &lt;iostream&gt;using namesp">
 <meta property="og:locale" content="ch">
-<meta property="article:published_time" content="2020-01-16T02:23:20.352Z">
-<meta property="article:modified_time" content="2020-01-16T02:23:20.352Z">
+<meta property="article:published_time" content="2019-08-18T16:00:00.000Z">
+<meta property="article:modified_time" content="2020-01-16T03:18:13.382Z">
 <meta property="article:author" content="Rey">
+<meta property="article:tag" content="算法">
+<meta property="article:tag" content="约瑟夫环">
 <meta name="twitter:card" content="summary">
     
 
@@ -194,13 +198,13 @@
                          <ul class="unstyled" id="tree" >  <li class="file"><a href="/wiki/20190807/">信度与效度的关系</a></li>  <li class="file"><a href="/wiki/20190808/">聚类分析</a></li>  <li class="file"><a href="/wiki/20190809/">线性混合效应模型</a></li>  <li class="file"><a href="/wiki/20190812/">监督学习</a></li>  <li class="file"><a href="/wiki/20190814/">t 检验</a></li>  <li class="file"><a href="/wiki/20190818/">无监督学习</a></li>  <li class="file"><a href="/wiki/20190821/">数据分析资料推荐</a></li>  </ul> 
                     </li> 
                     
-                    <li class="directory">
+                    <li class="directory open">
                         <a href="#" data-role="directory">
-                            <i class="fa fa-folder"></i>
+                            <i class="fa fa-folder-open"></i>
                             &nbsp;
                             算法
                         </a>
-                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/wiki/20190810/">列表排序、去重</a></li>  <li class="file"><a href="/wiki/20190817/">排序算法</a></li>  <li class="file"><a href="/wiki/20190819/">约瑟夫环问题</a></li>  <li class="file"><a href="/wiki/20190830/">判断变形词</a></li>  </ul> 
+                         <ul class="unstyled" id="tree" >  <li class="file"><a href="/wiki/20190810/">列表排序、去重</a></li>  <li class="file"><a href="/wiki/20190817/">排序算法</a></li>  <li class="file active"><a href="/wiki/20190819/">约瑟夫环问题</a></li>  <li class="file"><a href="/wiki/20190830/">判断变形词</a></li>  </ul> 
                     </li> 
                     
                     <li class="directory">
@@ -291,16 +295,118 @@
     <div id="toTop" class="fa fa-angle-up"></div>
 </aside>
             
-            <section id="main"><section class="layout-wrap">
-    <div class="layout-title">
-        <span>Tags</span>
-    </div>
-    <div class="layout-wrap-inner tag-cloud">
+            <section id="main"><article id="post-20190819" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
         
-            <a href="/tags/Python/" style="font-size: 14px;">Python</a> <a href="/tags/R/" style="font-size: 14px;">R</a> <a href="/tags/SQL/" style="font-size: 14px;">SQL</a> <a href="/tags/t%E6%A3%80%E9%AA%8C/" style="font-size: 14px;">t检验</a> <a href="/tags/%E4%BC%B0%E7%AE%97/" style="font-size: 14px;">估算</a> <a href="/tags/%E4%BF%A1%E5%BA%A6/" style="font-size: 14px;">信度</a> <a href="/tags/%E5%88%86%E7%B1%BB/" style="font-size: 14px;">分类</a> <a href="/tags/%E5%88%87%E7%89%87/" style="font-size: 14px;">切片</a> <a href="/tags/%E5%88%97%E8%A1%A8/" style="font-size: 14px;">列表</a> <a href="/tags/%E5%8E%BB%E9%87%8D/" style="font-size: 14px;">去重</a> <a href="/tags/%E5%8F%98%E5%BD%A2%E8%AF%8D/" style="font-size: 14px;">变形词</a> <a href="/tags/%E5%9B%9E%E5%BD%92/" style="font-size: 14px;">回归</a> <a href="/tags/%E5%AD%A6%E4%B9%A0/" style="font-size: 14px;">学习</a> <a href="/tags/%E5%BA%94%E7%94%A8/" style="font-size: 21px;">应用</a> <a href="/tags/%E6%8E%92%E5%BA%8F/" style="font-size: 21px;">排序</a> <a href="/tags/%E6%95%88%E5%BA%A6/" style="font-size: 14px;">效度</a> <a href="/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/" style="font-size: 14px;">数据库</a> <a href="/tags/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/" style="font-size: 14px;">无监督学习</a> <a href="/tags/%E6%97%A5%E6%B4%BB/" style="font-size: 14px;">日活</a> <a href="/tags/%E6%9C%88%E6%B4%BB/" style="font-size: 14px;">月活</a> <a href="/tags/%E6%AD%A3%E6%80%81/" style="font-size: 14px;">正态</a> <a href="/tags/%E6%B5%8B%E9%87%8F/" style="font-size: 14px;">测量</a> <a href="/tags/%E6%B7%B7%E5%90%88%E6%95%88%E5%BA%94/" style="font-size: 14px;">混合效应</a> <a href="/tags/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/" style="font-size: 14px;">监督学习</a> <a href="/tags/%E7%AE%97%E6%B3%95/" style="font-size: 28px;">算法</a> <a href="/tags/%E7%BA%A6%E7%91%9F%E5%A4%AB%E7%8E%AF/" style="font-size: 14px;">约瑟夫环</a> <a href="/tags/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/" style="font-size: 14px;">线性模型</a> <a href="/tags/%E7%BB%9F%E8%AE%A1/" style="font-size: 14px;">统计</a> <a href="/tags/%E8%81%9A%E7%B1%BB/" style="font-size: 14px;">聚类</a> <a href="/tags/%E8%AF%AD%E8%A8%80/" style="font-size: 14px;">语言</a> <a href="/tags/%E8%B5%84%E6%96%99/" style="font-size: 14px;">资料</a> <a href="/tags/%E9%80%89%E6%8B%A9/" style="font-size: 14px;">选择</a>
         
+            <header class="article-header">
+                
+                    <div class="article-meta">
+                        
+    <div class="article-category">
+    	<i class="fa fa-folder"></i>
+        <a class="article-category-link" href="/categories/%E7%AE%97%E6%B3%95/">算法</a>
     </div>
-</section></section>
+
+                        
+    <div class="article-tag">
+        <i class="fa fa-tag"></i>
+        <a class="tag-link" href="/tags/%E7%AE%97%E6%B3%95/" rel="tag">算法</a>, <a class="tag-link" href="/tags/%E7%BA%A6%E7%91%9F%E5%A4%AB%E7%8E%AF/" rel="tag">约瑟夫环</a>
+    </div>
+
+                        
+    <div class="article-date">
+        <i class="fa fa-calendar"></i>
+        <a href="/wiki/20190819/">
+            <time datetime="2019-08-18T16:00:00.000Z" itemprop="datePublished">2019-08-19</time>
+        </a>
+    </div>
+
+
+                        
+                            <i class="fa fa-bar-chart"></i>
+                            <span id="busuanzi_container_site_pv"><span id="busuanzi_value_page_pv"></span></span>    
+                        
+                        
+                    </div>
+                
+                
+    
+        <h1 class="article-title" itemprop="name">
+            约瑟夫环问题
+        </h1>
+    
+
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+        
+            
+                <div id="toc" class="toc-article">
+                <strong class="toc-title">Catalogue</strong>
+                    <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#问题"><span class="toc-number">1.</span> <span class="toc-text">问题</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#回答"><span class="toc-number">2.</span> <span class="toc-text">回答</span></a></li></ol>
+                </div>
+            
+        
+        
+            <h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>有 n 个人围成一圈，顺序排号。从第一个人开始报数（从 1 到 3 报数），凡报到 3 的人退出圈子，问最后留下的是原来第几号的那位。</p>
+<p>跟群名似乎无关，但是感觉挺好玩 🤪</p>
+<h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>C 语言模拟 <a href="t.me/capwill2">@capwill2</a></p>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> MAX 100000</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> num[MAX];</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> n,p;</span><br><span class="line">    <span class="built_in">cin</span>&gt;&gt;n&gt;&gt;p;</span><br><span class="line">    <span class="keyword">int</span> i=<span class="number">1</span>,current_step=<span class="number">1</span>,killed=<span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">while</span>(killed!=n<span class="number">-1</span>)&#123;</span><br><span class="line">        <span class="keyword">if</span>(current_step==p)&#123;</span><br><span class="line">            num[i]=<span class="number">1</span>;</span><br><span class="line">            killed++;</span><br><span class="line">            <span class="built_in">cout</span>&lt;&lt;<span class="string">"kill "</span>&lt;&lt;i&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">            current_step=<span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        i++;</span><br><span class="line">        <span class="keyword">if</span>(i&gt;n)</span><br><span class="line">            i=<span class="number">1</span>;</span><br><span class="line">        <span class="keyword">if</span>(num[i]==<span class="number">0</span>)</span><br><span class="line">            current_step++;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt;=n;i++)</span><br><span class="line">        <span class="keyword">if</span>(num[i]==<span class="number">0</span>) <span class="built_in">cout</span>&lt;&lt;<span class="string">"survivor: "</span>&lt;&lt;i;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>思路是用数组模拟循环链表。</p>
+
+            </div>
+        
+        <footer class="article-footer">
+        </footer>
+    </div>
+</article>
+
+
+    
+<nav id="article-nav">
+    
+        <a href="/wiki/20190820/" id="article-nav-newer" class="article-nav-link-wrap">
+            <strong class="article-nav-caption">Newer</strong>
+            <div class="article-nav-title">
+                
+                    人数估算
+                
+            </div>
+        </a>
+    
+    
+        <a href="/wiki/20190818/" id="article-nav-older" class="article-nav-link-wrap">
+            <strong class="article-nav-caption">Older</strong>
+            <div class="article-nav-title">无监督学习</div>
+        </a>
+    
+</nav>
+
+
+
+
+
+    
+    
+        <section id="comments"> 
+    <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript" target="_blank" rel="noopener">comments powered by Disqus.</a></noscript>
+    </div>
+ </section>
+    
+
+
+
+
+<!-- baidu url auto push script -->
+<script type="text/javascript">
+    !function(){var e=/([http|https]:\/\/[a-zA-Z0-9\_\.]+\.baidu\.com)/gi,r=window.location.href,o=document.referrer;if(!e.test(r)){var n="//api.share.baidu.com/s.gif";o?(n+="?r="+encodeURIComponent(document.referrer),r&&(n+="&l="+r)):r&&(n+="?l="+r);var t=new Image;t.src=n}}(window);
+</script>     
+</section>
         </div>
         <footer id="footer">
     <div class="outer">
@@ -323,9 +429,9 @@
     <script>
     var disqus_config = function () {
         
-            this.page.url = 'http://yoursite.com/tags/index.html';
+            this.page.url = 'http://yoursite.com/wiki/20190819/';
         
-        this.page.identifier = '';
+        this.page.identifier = '20190819';
     };
     (function() { 
         var d = document, s = d.createElement('script');  

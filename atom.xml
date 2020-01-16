@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-16T02:02:59.488Z</updated>
+  <updated>2020-01-16T03:18:11.074Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,39 +17,446 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test_my_site</title>
-    <link href="http://yoursite.com/wiki/test-my-site/"/>
-    <id>http://yoursite.com/wiki/test-my-site/</id>
-    <published>2020-01-16T02:02:59.000Z</published>
-    <updated>2020-01-16T02:02:59.488Z</updated>
+    <title>选择与切片</title>
+    <link href="http://yoursite.com/wiki/20190903/"/>
+    <id>http://yoursite.com/wiki/20190903/</id>
+    <published>2019-09-02T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:11.074Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>在不同的数据分析软件/语言中，选(select)取或切片(slice)有什么技巧？请畅所欲言~</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>暂无，前往 <a href="https://t.me/dataanalysiszh" target="_blank" rel="noopener">Telegram 群</a> 参与答题。不积跬步无以至千里。</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;在不同的数据分析软件/语言中，选(select)取或切片(slice)有什么技巧？请畅所欲言~&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a hre
+      
     
     </summary>
     
     
+      <category term="语言" scheme="http://yoursite.com/categories/%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="语言" scheme="http://yoursite.com/tags/%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="选择" scheme="http://yoursite.com/tags/%E9%80%89%E6%8B%A9/"/>
+    
+      <category term="切片" scheme="http://yoursite.com/tags/%E5%88%87%E7%89%87/"/>
+    
+      <category term="R" scheme="http://yoursite.com/tags/R/"/>
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/wiki/hello-world/"/>
-    <id>http://yoursite.com/wiki/hello-world/</id>
-    <published>2020-01-16T01:58:55.043Z</published>
-    <updated>2020-01-16T01:58:55.043Z</updated>
+    <title>判断变形词</title>
+    <link href="http://yoursite.com/wiki/20190830/"/>
+    <id>http://yoursite.com/wiki/20190830/</id>
+    <published>2019-08-29T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:13.382Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>给定两个字符串 str1 和 str2，如果 str1 和 str2 中出现的字符种类一样且每种字符出现的次数也一样，那么 str1 与 str2 互为变形词。请实现函数判断两个字符串是否互为变形词。</p><p>【举例】<br>str1=＂123＂，str2=＂231＂，返回 true。str1=＂123＂，str2=＂2331＂，返回 false。</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><ol><li><a href="t.me/reynd">@reynd</a> Python3</li></ol><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">isAnagram</span><span class="params">(self, s: str, t: str)</span> -&gt; bool:</span></span><br><span class="line">    <span class="keyword">if</span> s ==<span class="string">""</span> <span class="keyword">and</span> t == <span class="string">""</span>:</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">True</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> len(s) != len(t) <span class="keyword">or</span> len(set(s)) != len(set(t)):</span><br><span class="line">        <span class="keyword">return</span> <span class="literal">False</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span> char <span class="keyword">in</span> set(s):</span><br><span class="line">        s_count = s.count(char)</span><br><span class="line">        t_count = t.count(char)</span><br><span class="line">        <span class="keyword">if</span> s_count != t_count:</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">False</span></span><br><span class="line">        <span class="keyword">return</span> <span class="literal">True</span></span><br></pre></td></tr></table></figure><p>主要利用了 set 的内置优化和特性减少运算，以及使用布尔运算提高效率。</p><p>执行用时 : 48 ms, 在所有 Python3 提交中击败了 98.93% 的用户<br>内存消耗 : 14 MB, 在所有 Python3 提交中击败了 29.70% 的用户</p><ol start="2"><li><a href="about:blank">@bob </a> C++</li></ol><p>如果字符串 str1 和 str2 长度不同，直接返回 false。</p><p>如果长度相同，假设出现字符的编码值在 0~255 之间，那么先申请一个长度为 256 的<br>整型数组 map，<code>map[a]=b</code> 代表字符编码为 a 的字符出现了 b 次，初始时 map[0-255]的值都是 0。</p><p>然后遍历字符串 str1, 统计每种字符出现的数量，比如遍历到字符 ‘a’，其编码值为 97，则令 <code>map[97]++</code>。这样 map 就成了 str1 中每种字符的词频统计表。</p><p>然后遍历字符串 str2，每遍历到一个字符，都在 map 中把词频减下来，比如遍历到字符 ‘a’，其编码值为 97，则令 <code>map[97]--</code>，如果减少之后的值小于 0，直接返回 false。</p><p>如果遍历完 str2，map 中的值也没出现负值，则返回 true。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;给定两个字符串 str1 和 str2，如果 str1 和 str2 中出现的字符种类一样且每种字符出现的次数也一样，那么 str1 与 s
       
     
     </summary>
     
     
+      <category term="算法" scheme="http://yoursite.com/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="变形词" scheme="http://yoursite.com/tags/%E5%8F%98%E5%BD%A2%E8%AF%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>日活与月活</title>
+    <link href="http://yoursite.com/wiki/20190829/"/>
+    <id>http://yoursite.com/wiki/20190829/</id>
+    <published>2019-08-28T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:13.382Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>运营中，日活与月活的比值变化，说明了什么？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>作者：Aaron 余乐<br>链接：<a href="https://www.zhihu.com/question/24007425/answer/130382392" target="_blank" rel="noopener">https://www.zhihu.com/question/24007425/answer/130382392</a><br>来源：知乎<br>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p><p>DAU（日活）：单日活跃用户量，反应产品短期用户活跃度</p><p>MAU（月活）：单月活跃用户量，反应产品长期用户活跃度日活和月活的比值乘以 30 等于用户月平均登录天数。</p><p>日活和月活的比值高，代表一个月有使用产品的用户中，每天都使用产品的用户比例高，即使用频率高，用户对产品的依赖性强，同时也说明用户粘度较强。另一方面，也代表了用户的流失率低，留存率高。</p><p>日活和月活的比值低，所有结论相反，用户使用频率低，依赖性弱，粘度较弱，用户流失率高，留存率低。</p><p>下面分 4 种动态情况来讨论日活和月活的关系</p><ol><li>日活和月活的比值变高，日活增加显著。说明产品的改动或者啥大新闻让部分沉默用户苏醒，但是这个改动和大新闻大多触及到产品已有老用户，这种情况下我们应该加大对产品新功能的推广和宣传，引导更多的新用户成为我们的活跃用户。</li><li>日活和月活的比值变高，月活减少显著。说明非忠实用户的流失变得严重，对于一部分刚需的用户我们可以保留下来，但是对于不是刚需的用户我们无法挽留，这种情况下我们应该在保证核心功能的基础上进行功能多元化的探索，满足更多非刚需非忠实用户的需求。</li><li>日活和月活的比值变低，日活减少显著。说明我们的核心功能出现了问题或者外界的影响造成了用户对产品本身的恐慌，像什么某某某 P2P 跑路了等等，导致原本使用产品的用户跳到竞品或者不再使用，这种情况下我们应该分析竞品的动向，确保我们的核心功能各方面使用体验达到最优，才能挽留用户。</li><li>日活和月活的比值变低，月活增加显著。说明产品的改动或者外界的推广让短期用户活跃度提升，但是这个改动和影响不具备可持续性，可能是用户玩一下就腻了的快死型功能，比如脸萌，足迹这种功能，这种情况下我们要思考如何增加用户的粘度，减少用户流失。</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;运营中，日活与月活的比值变化，说明了什么？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="应用" scheme="http://yoursite.com/categories/%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="应用" scheme="http://yoursite.com/tags/%E5%BA%94%E7%94%A8/"/>
+    
+      <category term="日活" scheme="http://yoursite.com/tags/%E6%97%A5%E6%B4%BB/"/>
+    
+      <category term="月活" scheme="http://yoursite.com/tags/%E6%9C%88%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据分析资料推荐</title>
+    <link href="http://yoursite.com/wiki/20190821/"/>
+    <id>http://yoursite.com/wiki/20190821/</id>
+    <published>2019-08-20T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:13.382Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>对数据分析相关技能，你最推荐的学习材料是？请注明技能、推荐阶段和推荐理由。如：</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>《利用 Python 进行数据分析》 <a href="t.me/reynd">@reynd</a><br>技能： Python 数据分析<br>阶段： 入门<br>理由： 作者经验丰富行文简洁有条理，看一遍就能上手主流的数据分析工具。</p><p>在线阅读： <a href="https://wizardforcel.gitbooks.io/pyda-2e/content/" target="_blank" rel="noopener">https://wizardforcel.gitbooks.io/pyda-2e/content/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;对数据分析相关技能，你最推荐的学习材料是？请注明技能、推荐阶段和推荐理由。如：&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="资料" scheme="http://yoursite.com/tags/%E8%B5%84%E6%96%99/"/>
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人数估算</title>
+    <link href="http://yoursite.com/wiki/20190820/"/>
+    <id>http://yoursite.com/wiki/20190820/</id>
+    <published>2019-08-19T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:13.382Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>如何估算香港一次游行/集会的人数？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>抽样 <a href="t.me/mbpRetina">@mbpRetina</a></p><p>抽样吧 静态和动态都可以 然后再调权重</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;如何估算香港一次游行/集会的人数？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; tit
+      
+    
+    </summary>
+    
+    
+      <category term="应用" scheme="http://yoursite.com/categories/%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="应用" scheme="http://yoursite.com/tags/%E5%BA%94%E7%94%A8/"/>
+    
+      <category term="估算" scheme="http://yoursite.com/tags/%E4%BC%B0%E7%AE%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>约瑟夫环问题</title>
+    <link href="http://yoursite.com/wiki/20190819/"/>
+    <id>http://yoursite.com/wiki/20190819/</id>
+    <published>2019-08-18T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:13.382Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>有 n 个人围成一圈，顺序排号。从第一个人开始报数（从 1 到 3 报数），凡报到 3 的人退出圈子，问最后留下的是原来第几号的那位。</p><p>跟群名似乎无关，但是感觉挺好玩 🤪</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>C 语言模拟 <a href="t.me/capwill2">@capwill2</a></p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> MAX 100000</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> num[MAX];</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> n,p;</span><br><span class="line">    <span class="built_in">cin</span>&gt;&gt;n&gt;&gt;p;</span><br><span class="line">    <span class="keyword">int</span> i=<span class="number">1</span>,current_step=<span class="number">1</span>,killed=<span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">while</span>(killed!=n<span class="number">-1</span>)&#123;</span><br><span class="line">        <span class="keyword">if</span>(current_step==p)&#123;</span><br><span class="line">            num[i]=<span class="number">1</span>;</span><br><span class="line">            killed++;</span><br><span class="line">            <span class="built_in">cout</span>&lt;&lt;<span class="string">"kill "</span>&lt;&lt;i&lt;&lt;<span class="built_in">endl</span>;</span><br><span class="line">            current_step=<span class="number">0</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        i++;</span><br><span class="line">        <span class="keyword">if</span>(i&gt;n)</span><br><span class="line">            i=<span class="number">1</span>;</span><br><span class="line">        <span class="keyword">if</span>(num[i]==<span class="number">0</span>)</span><br><span class="line">            current_step++;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">1</span>;i&lt;=n;i++)</span><br><span class="line">        <span class="keyword">if</span>(num[i]==<span class="number">0</span>) <span class="built_in">cout</span>&lt;&lt;<span class="string">"survivor: "</span>&lt;&lt;i;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>思路是用数组模拟循环链表。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;有 n 个人围成一圈，顺序排号。从第一个人开始报数（从 1 到 3 报数），凡报到 3 的人退出圈子，问最后留下的是原来第几号的那位。&lt;/p
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="http://yoursite.com/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="约瑟夫环" scheme="http://yoursite.com/tags/%E7%BA%A6%E7%91%9F%E5%A4%AB%E7%8E%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>无监督学习</title>
+    <link href="http://yoursite.com/wiki/20190818/"/>
+    <id>http://yoursite.com/wiki/20190818/</id>
+    <published>2019-08-17T16:00:00.000Z</published>
+    <updated>2020-01-16T03:14:38.561Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>Suppose we a data set where each data point represents a single student’s scores on a math test, a physics test, a reading comprehension test, and a vocabulary test.</p><p>We find the first two principal components, which capture 90% of the variability in the data, and interpret their loadings. We conclude that the first principal component represents overall academic ability, and the second represents a contrast between quantitative ability and verbal ability.</p><p>What loadings would be consistent with that interpretation? Choose all that apply.</p><p>a. (0.5, 0.5, 0.5, 0.5) and (0.71, 0.71, 0, 0)</p><p>b. (0.5, 0.5, 0.5, 0.5) and (0, 0, -0.71, -0.71)</p><p>c. (0.5, 0.5, 0.5, 0.5) and (0.5, 0.5, -0.5, -0.5)</p><p>d. (0.5, 0.5, 0.5, 0.5) and (-0.5, -0.5, 0.5, 0.5)</p><p>f. (0.71, 0.71, 0, 0) and (0, 0, 0.71, 0.71)</p><p>g. (0.71, 0, -0.71, 0) and (0, 0.71, 0, -0.71)</p><h2 id="答案"><a href="#答案" class="headerlink" title="答案"></a>答案</h2><p><a href="about:blank">@bob</a> The answers are (c) and (d).</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;Suppose we a data set where each data point represents a single studen
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="无监督学习" scheme="http://yoursite.com/tags/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>排序算法</title>
+    <link href="http://yoursite.com/wiki/20190817/"/>
+    <id>http://yoursite.com/wiki/20190817/</id>
+    <published>2019-08-16T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:13.382Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>常见的排序算法有哪些？各语言如何实现？</p><p>这个问题有点大。因为排序算法有好多，举一个例子就成。而且 R 与 Python 是不是不用考虑排序算法？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>三类排序 <a href="t.me/capwill2">@capwill2</a></p><ul><li><p>插入排序有直接插入排序、希尔排序；</p></li><li><p>交换排序有冒泡排序、快速排序；</p></li><li><p>选择排序有简单选择排序、堆排序。</p></li></ul><p>举个 c++ 最简单的堆排序实现，用 stl，优先级队列即可。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;常见的排序算法有哪些？各语言如何实现？&lt;/p&gt;
+&lt;p&gt;这个问题有点大。因为排序算法有好多，举一个例子就成。而且 R 与 Python 是不是
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="http://yoursite.com/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQL 通配符</title>
+    <link href="http://yoursite.com/wiki/20190816/"/>
+    <id>http://yoursite.com/wiki/20190816/</id>
+    <published>2019-08-15T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:13.382Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>SQL 语言允许使用通配符进行字符串匹配的操作，其中‘%’可以表示<br>A.零个字符<br>B.1 个字符<br>C.多个字符<br>D.以上都是</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p><a href="about:blank">@bob</a> 替代 0 个或多个字符，选择 D。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;SQL 语言允许使用通配符进行字符串匹配的操作，其中‘%’可以表示&lt;br&gt;A.零个字符&lt;br&gt;B.1 个字符&lt;br&gt;C.多个字符&lt;br&gt;D.
+      
+    
+    </summary>
+    
+    
+      <category term="应用" scheme="http://yoursite.com/categories/%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="数据库" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="SQL" scheme="http://yoursite.com/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>t 检验</title>
+    <link href="http://yoursite.com/wiki/20190814/"/>
+    <id>http://yoursite.com/wiki/20190814/</id>
+    <published>2019-08-13T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:13.382Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>t 检验是否要样本数据呈正态分布？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>抽样分布符合正态就可以用。 <a href="t.me/mbpRetina">@mbpRetina</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;t 检验是否要样本数据呈正态分布？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; tit
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="统计" scheme="http://yoursite.com/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="t检验" scheme="http://yoursite.com/tags/t%E6%A3%80%E9%AA%8C/"/>
+    
+      <category term="正态" scheme="http://yoursite.com/tags/%E6%AD%A3%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>监督学习</title>
+    <link href="http://yoursite.com/wiki/20190812/"/>
+    <id>http://yoursite.com/wiki/20190812/</id>
+    <published>2019-08-11T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:13.382Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>什么是监督学习？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>有一组已知类别/分类的数据作为样本来训练的模型。</p><p>例：knn、贝叶斯分类、回归。 <a href="t.me/mbpRetina">@mbpRetina</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;什么是监督学习？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; title=&quot;回答&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="监督学习" scheme="http://yoursite.com/tags/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>列表排序、去重</title>
+    <link href="http://yoursite.com/wiki/20190810/"/>
+    <id>http://yoursite.com/wiki/20190810/</id>
+    <published>2019-08-09T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:14.190Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>请用自己的算法, 按升序合并如下两个 list, 并去除重复的元素:</p><p><code>list1 = [2, 3, 8, 4, 9, 5, 6]</code><br><code>list2 = [5, 6, 10, 17, 11, 2]</code></p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><ol><li><a href="about:blank">@bob</a> 用 C++ 写了一下</li></ol><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;algorithm&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">int</span> list1[] = &#123;<span class="number">2</span>,<span class="number">3</span>,<span class="number">8</span>,<span class="number">4</span>,<span class="number">9</span>,<span class="number">5</span>,<span class="number">6</span>&#125;;</span><br><span class="line">    <span class="keyword">int</span> list2[] = &#123;<span class="number">5</span>,<span class="number">6</span>,<span class="number">10</span>,<span class="number">17</span>,<span class="number">11</span>,<span class="number">2</span>&#125;;</span><br><span class="line">    <span class="keyword">int</span> length1 = <span class="keyword">sizeof</span>(list1) / <span class="keyword">sizeof</span>(list1[<span class="number">1</span>]);</span><br><span class="line">    <span class="keyword">int</span> length2 = <span class="keyword">sizeof</span>(list2) / <span class="keyword">sizeof</span>(list2[<span class="number">1</span>]);</span><br><span class="line"></span><br><span class="line">    sort(list1,list1+length1);</span><br><span class="line">    sort(list2,list2+length2);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">int</span> <span class="built_in">list</span>[length1+length2],index=<span class="number">0</span>,i=<span class="number">0</span>,j=<span class="number">0</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">while</span>(i&lt;length1 || j&lt;length2)&#123;</span><br><span class="line">        <span class="keyword">if</span>(list1[i]==list2[j])&#123;</span><br><span class="line">            <span class="built_in">list</span>[index++]=list1[i++];</span><br><span class="line">            j++;</span><br><span class="line">        &#125;<span class="keyword">else</span> <span class="keyword">if</span>(list1[i]&gt;list2[j])&#123;</span><br><span class="line">            <span class="built_in">list</span>[index++]=list2[j++];</span><br><span class="line">        &#125;<span class="keyword">else</span>&#123;</span><br><span class="line">            <span class="built_in">list</span>[index++] = list1[i++];</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">while</span>(i&lt;length1)&#123;</span><br><span class="line">        <span class="built_in">list</span>[index++] = list1[i++];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">while</span>(j&lt;length2)&#123;</span><br><span class="line">        <span class="built_in">list</span>[index++] = list2[j++];</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;index;i++)</span><br><span class="line">        <span class="built_in">cout</span>&lt;&lt;<span class="built_in">list</span>[i]&lt;&lt;<span class="string">" "</span>;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><ol start="2"><li><p><a href="t.me/@capwill2">@capwill2</a></p><p>我也刚刚用 C++写的 40 行。</p><p>我的思路是先全部排序好，最后做一次归并。复杂度为排序的复杂度，用的 stl 的 sort，O(nlogn)。其实可以直接考虑使用 set 容器，直接去重并排序。</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;请用自己的算法, 按升序合并如下两个 list, 并去除重复的元素:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;list1 = [2, 3, 8, 4, 9
+      
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="http://yoursite.com/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="排序" scheme="http://yoursite.com/tags/%E6%8E%92%E5%BA%8F/"/>
+    
+      <category term="列表" scheme="http://yoursite.com/tags/%E5%88%97%E8%A1%A8/"/>
+    
+      <category term="去重" scheme="http://yoursite.com/tags/%E5%8E%BB%E9%87%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性混合效应模型</title>
+    <link href="http://yoursite.com/wiki/20190809/"/>
+    <id>http://yoursite.com/wiki/20190809/</id>
+    <published>2019-08-08T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:14.191Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>线性混合效应模型，公式 Y ~ 1 + A + B + (1 | C:D:E)，数字 1 和符号 | 各代表什么含义？这种公式怎么理解呢？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>暂无，前往 <a href="https://t.me/dataanalysiszh" target="_blank" rel="noopener">Telegram 群</a> 参与答题。不积跬步无以至千里。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;线性混合效应模型，公式 Y ~ 1 + A + B + (1 | C:D:E)，数字 1 和符号 | 各代表什么含义？这种公式怎么理解呢？&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="回归" scheme="http://yoursite.com/tags/%E5%9B%9E%E5%BD%92/"/>
+    
+      <category term="线性模型" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="混合效应" scheme="http://yoursite.com/tags/%E6%B7%B7%E5%90%88%E6%95%88%E5%BA%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>聚类分析</title>
+    <link href="http://yoursite.com/wiki/20190808/"/>
+    <id>http://yoursite.com/wiki/20190808/</id>
+    <published>2019-08-07T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:14.190Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>聚类分析有几种方式，分别在什么情况下使用？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>聚类一般分为划分法和层次法吧。<br>划分法就是先指定每个类的中心，然后通过计算每个观测和类中心的距离，再调整类中心 ；划分法比较有名的方法就是 K-means；划分法适合于观测数比较多的情况，但需要提前输入类别数 K。<br>层次法思想就是把所有观测各归为一类，然后每次把两个最相似的类合并为一个新类，直到达到某种条件为止。或者所有观测归为一类，每次把一个类分割成两个，直到达到某种条件位置；层次法下面有很多种方法；一般适合观测数比较少的情况，并且不需要输入类别数。 <a href="t.me/yzxsiw">@yzxsiw</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;聚类分析有几种方式，分别在什么情况下使用？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="分类" scheme="http://yoursite.com/tags/%E5%88%86%E7%B1%BB/"/>
+    
+      <category term="聚类" scheme="http://yoursite.com/tags/%E8%81%9A%E7%B1%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>信度与效度的关系</title>
+    <link href="http://yoursite.com/wiki/20190807/"/>
+    <id>http://yoursite.com/wiki/20190807/</id>
+    <published>2019-08-06T16:00:00.000Z</published>
+    <updated>2020-01-16T03:18:14.190Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>信度与效度的关系是什么？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><ol><li>信度高是效度高的必要不充分条件。<a href="about:blank">@bob</a></li></ol><p>2) 在社会科学中， 信度(reliability) 是指使用相同的研究技术重复测量同一个对象时得到相同研究结果的可能性；而 效度(validity) 是指实证测量在多大程度上反映了概念的真实含义。信度和效度的同时完善是研究者的追求，但实际操作中往往会遇到互斥的困境，不得不进行取舍。<a href="t.me/reynd">@reynd</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;信度与效度的关系是什么？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; title=&quot;回
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="测量" scheme="http://yoursite.com/tags/%E6%B5%8B%E9%87%8F/"/>
+    
+      <category term="信度" scheme="http://yoursite.com/tags/%E4%BF%A1%E5%BA%A6/"/>
+    
+      <category term="效度" scheme="http://yoursite.com/tags/%E6%95%88%E5%BA%A6/"/>
     
   </entry>
   
