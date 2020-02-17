@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-16T03:44:47.293Z</updated>
+  <updated>2020-02-17T13:56:24.624Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,239 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>相关系数的选择</title>
+    <link href="http://yoursite.com/wiki/%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0/"/>
+    <id>http://yoursite.com/wiki/%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0/</id>
+    <published>2020-02-12T16:00:00.000Z</published>
+    <updated>2020-02-17T13:56:24.624Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>相关系数的大小与相关系数的显著性水平是什么关系？如何解释？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><ul><li>两连续变量：Pearson 相关；<br>两等级变量：Sperarman 相关；<br>一列为连续变量，一列二分变量：点二列相关；<br>多个等评评定：Kendall 和谐系数 <strong>@Bob</strong></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;相关系数的大小与相关系数的显著性水平是什么关系？如何解释？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;hea
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
+    
+      <category term="相关" scheme="http://yoursite.com/tags/%E7%9B%B8%E5%85%B3/"/>
+    
+      <category term="系数" scheme="http://yoursite.com/tags/%E7%B3%BB%E6%95%B0/"/>
+    
+      <category term="变量类型" scheme="http://yoursite.com/tags/%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性回归假设</title>
+    <link href="http://yoursite.com/wiki/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%81%87%E8%AE%BE/"/>
+    <id>http://yoursite.com/wiki/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%81%87%E8%AE%BE/</id>
+    <published>2020-01-29T16:00:00.000Z</published>
+    <updated>2020-02-17T13:56:24.624Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>线性回归有什么假设？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><ul><li>古典线性模型需要 7 条假定(ucb 的 Bickle 一本书，想不起名字了居然…)，如果假定不满足，一条一条的修正就慢慢演化到现代的线性模型。<a href="t.me/ld2012">@ld2012</a></li><li>自变量必需已知；可加性和线性。门外汉，小白见解 🙈 <a href="t.me/colorfi">@colorfi</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;线性回归有什么假设？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; title=&quot;回答&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
+    
+      <category term="线性回归" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/"/>
+    
+      <category term="假设" scheme="http://yoursite.com/tags/%E5%81%87%E8%AE%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>正则化</title>
+    <link href="http://yoursite.com/wiki/%E6%AD%A3%E5%88%99%E5%8C%96/"/>
+    <id>http://yoursite.com/wiki/%E6%AD%A3%E5%88%99%E5%8C%96/</id>
+    <published>2020-01-28T16:00:00.000Z</published>
+    <updated>2020-02-17T13:56:24.624Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>什么是正则化？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>正则化简单地讲就是在估计值 $\hat{\beta}$ 中加多了一个限制项，得到了一个 $\hat{\beta}’$, 这样的话，在数学上可以证明：$||\hat{\beta}’|| &lt; ||\hat{\beta}||$ 「参考测度论」，所以加入者正则项后，新的估计值 $\hat{\beta}’$ 的长度小于原来的估计值 $\hat{\beta}$，这样我们就可以避免过拟合。<a href="参考：https://charlesliuyx.github.io/2017/10/03/%E3%80%90%E7%9B%B4%E8%A7%82%E8%AF%A6%E8%A7%A3%E3%80%91%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%A3%E5%88%99%E5%8C%96/">参考链接</a> <a href="t.me/mbpRetina">@mbpRetina</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;什么是正则化？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; title=&quot;回答&quot;&gt;&lt;/
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
+    
+      <category term="正则化" scheme="http://yoursite.com/tags/%E6%AD%A3%E5%88%99%E5%8C%96/"/>
+    
+      <category term="机器学习" scheme="http://yoursite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>传染病估算</title>
+    <link href="http://yoursite.com/wiki/%E4%BC%A0%E6%9F%93%E7%97%85%E4%BC%B0%E7%AE%97/"/>
+    <id>http://yoursite.com/wiki/%E4%BC%A0%E6%9F%93%E7%97%85%E4%BC%B0%E7%AE%97/</id>
+    <published>2020-01-22T16:00:00.000Z</published>
+    <updated>2020-02-17T13:56:24.624Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>如何估算武汉肺炎全国受感染人数？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><ul><li>我觉得三大运营商可以很方便统计，支付宝还可能有偏 <a href="t.me/m1kufan">@m1kufan</a></li><li>定位号码在医院的非常驻人员？（ <a href="t.me/wweiyan">@wweiyan</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;如何估算武汉肺炎全国受感染人数？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; titl
+      
+    
+    </summary>
+    
+    
+      <category term="应用" scheme="http://yoursite.com/categories/%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
+    
+      <category term="估算" scheme="http://yoursite.com/tags/%E4%BC%B0%E7%AE%97/"/>
+    
+      <category term="武汉肺炎" scheme="http://yoursite.com/tags/%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E/"/>
+    
+      <category term="传染病" scheme="http://yoursite.com/tags/%E4%BC%A0%E6%9F%93%E7%97%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 词云制作</title>
+    <link href="http://yoursite.com/wiki/Python%20%E8%AF%8D%E4%BA%91%E5%88%B6%E4%BD%9C/"/>
+    <id>http://yoursite.com/wiki/Python%20%E8%AF%8D%E4%BA%91%E5%88%B6%E4%BD%9C/</id>
+    <published>2020-01-19T16:00:00.000Z</published>
+    <updated>2020-02-17T13:56:24.624Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>制作词云有什么简单易的方法或工具？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><ul><li>wordcloud2 tableau finebi 也行<a href="t.me/wweiyan">@wweiyan</a></li><li>mathematica 也行（ <a href="t.me/clover0722">@clover0722</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;制作词云有什么简单易的方法或工具？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; tit
+      
+    
+    </summary>
+    
+    
+      <category term="应用" scheme="http://yoursite.com/categories/%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+      <category term="词云" scheme="http://yoursite.com/tags/%E8%AF%8D%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性回归多重共线性</title>
+    <link href="http://yoursite.com/wiki/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%A4%9A%E9%87%8D%E5%85%B1%E7%BA%BF%E6%80%A7/"/>
+    <id>http://yoursite.com/wiki/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%A4%9A%E9%87%8D%E5%85%B1%E7%BA%BF%E6%80%A7/</id>
+    <published>2020-01-17T16:00:00.000Z</published>
+    <updated>2020-02-17T13:56:24.624Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>在多元线性回归中，自变量间的多重共线性问题如何判断和处理？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p><strong>【定义】</strong><br>当自变量之间存在某种线性关系或高度相关的时候，就会发生多重共线性问题。</p><p>多重共线性问题的两种情形都会给回归模型的参数估计带来困难。完全多重共线性问题指矩阵 X’X 严格不可逆的情形，造成了模型的不可估计；近似多重共线性问题即数据矩阵中的一个或几个列向量可以近似地表达为其他列向量的线性组合的情形，会导致参数估计值的标准误过大。</p><p><strong>【判断】</strong><br>一个判断是否存在严重近似共线性问题的经验性原则是:（1）自变量中最大的方差膨胀因子 VIF 大于 10；（2）平均方差膨胀因子 VIF 明显大于 1。</p><p><strong>【解决】</strong><br>当多重共线性问题发生时，我们需要对其进行处理才能保证模型本身的有效性。</p><p>如果发生的是完全多重共线性问题，则直接删除在数据中不必要的变量即可。这些变量可能是虚拟变量中的参照组，也可是包含了某些变量或其线性组合而生成的新变量。只要保证删除变量后无完全多重共线性问题即可。</p><p>如果发生的是近似多重共线性问题，就没有特别简单的方法来解决。如果在理论上我们可以识别某些自变量，即自变量在理论上都是有意义且意义不重复或每个自变量都不可以被其他自变量线性解释，那么当在实际中出现近似多重共线性问题时，我们可以通过增大样本量来解决多重共线性问题。</p><p>但是当没有明确的理论，不能在理论上识别某些自变量的时候，可以利用一些技术上的处理方法来减少自变量的数目。比较典型的方法是把彼此之间存在一定相关性的变量综合成较少的几个变量。这种综合变量信息的方法包括偏最小二乘回归分析、主成分分析法以及由主成分分析法推广得到的因子分析。</p><p><strong>【参考】</strong><br>谢宇《回归分析》</p><p><a href="t.me/reynd">@reynd</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;在多元线性回归中，自变量间的多重共线性问题如何判断和处理？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;hea
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+      <category term="应用" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
+    
+      <category term="线性回归" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/"/>
+    
+      <category term="多重共线性" scheme="http://yoursite.com/tags/%E5%A4%9A%E9%87%8D%E5%85%B1%E7%BA%BF%E6%80%A7/"/>
+    
+      <category term="多元线性回归" scheme="http://yoursite.com/tags/%E5%A4%9A%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/"/>
+    
+      <category term="自变量" scheme="http://yoursite.com/tags/%E8%87%AA%E5%8F%98%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随机森林泛化能力</title>
+    <link href="http://yoursite.com/wiki/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B/"/>
+    <id>http://yoursite.com/wiki/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B/</id>
+    <published>2020-01-15T16:00:00.000Z</published>
+    <updated>2020-02-17T13:56:24.624Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>为什么说随机森林比决策树拥有更好的泛化能力？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>随机森林拥有投票机制，减少单棵树出现的偏向问题<br>决策树单一决策 容易过拟合 <a href="t.me/wweiyan">@wweiyan</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;为什么说随机森林比决策树拥有更好的泛化能力？&lt;/p&gt;
+&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
+    
+      <category term="应用" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
+    
+      <category term="机器学习" scheme="http://yoursite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="随机森林" scheme="http://yoursite.com/tags/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97/"/>
+    
+      <category term="决策树" scheme="http://yoursite.com/tags/%E5%86%B3%E7%AD%96%E6%A0%91/"/>
+    
+      <category term="泛化能力" scheme="http://yoursite.com/tags/%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>选择与切片</title>
@@ -423,70 +656,6 @@
       <category term="线性模型" scheme="http://yoursite.com/tags/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B/"/>
     
       <category term="混合效应" scheme="http://yoursite.com/tags/%E6%B7%B7%E5%90%88%E6%95%88%E5%BA%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>聚类分析</title>
-    <link href="http://yoursite.com/wiki/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90/"/>
-    <id>http://yoursite.com/wiki/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90/</id>
-    <published>2019-08-07T16:00:00.000Z</published>
-    <updated>2020-01-16T03:44:48.283Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>聚类分析有几种方式，分别在什么情况下使用？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><p>聚类一般分为划分法和层次法吧。<br>划分法就是先指定每个类的中心，然后通过计算每个观测和类中心的距离，再调整类中心 ；划分法比较有名的方法就是 K-means；划分法适合于观测数比较多的情况，但需要提前输入类别数 K。<br>层次法思想就是把所有观测各归为一类，然后每次把两个最相似的类合并为一个新类，直到达到某种条件为止。或者所有观测归为一类，每次把一个类分割成两个，直到达到某种条件位置；层次法下面有很多种方法；一般适合观测数比较少的情况，并且不需要输入类别数。 <a href="t.me/yzxsiw">@yzxsiw</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;聚类分析有几种方式，分别在什么情况下使用？&lt;/p&gt;
-&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot;
-      
-    
-    </summary>
-    
-    
-      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
-    
-    
-      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
-    
-      <category term="分类" scheme="http://yoursite.com/tags/%E5%88%86%E7%B1%BB/"/>
-    
-      <category term="聚类" scheme="http://yoursite.com/tags/%E8%81%9A%E7%B1%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>信度与效度的关系</title>
-    <link href="http://yoursite.com/wiki/%E4%BF%A1%E5%BA%A6%E4%B8%8E%E6%95%88%E5%BA%A6%E7%9A%84%E5%85%B3%E7%B3%BB/"/>
-    <id>http://yoursite.com/wiki/%E4%BF%A1%E5%BA%A6%E4%B8%8E%E6%95%88%E5%BA%A6%E7%9A%84%E5%85%B3%E7%B3%BB/</id>
-    <published>2019-08-06T16:00:00.000Z</published>
-    <updated>2020-01-16T03:44:47.293Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>信度与效度的关系是什么？</p><h2 id="回答"><a href="#回答" class="headerlink" title="回答"></a>回答</h2><ol><li>信度高是效度高的必要不充分条件。<a href="about:blank">@bob</a></li></ol><p>2) 在社会科学中， 信度(reliability) 是指使用相同的研究技术重复测量同一个对象时得到相同研究结果的可能性；而 效度(validity) 是指实证测量在多大程度上反映了概念的真实含义。信度和效度的同时完善是研究者的追求，但实际操作中往往会遇到互斥的困境，不得不进行取舍。<a href="t.me/reynd">@reynd</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;信度与效度的关系是什么？&lt;/p&gt;
-&lt;h2 id=&quot;回答&quot;&gt;&lt;a href=&quot;#回答&quot; class=&quot;headerlink&quot; title=&quot;回
-      
-    
-    </summary>
-    
-    
-      <category term="理论" scheme="http://yoursite.com/categories/%E7%90%86%E8%AE%BA/"/>
-    
-    
-      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
-    
-      <category term="测量" scheme="http://yoursite.com/tags/%E6%B5%8B%E9%87%8F/"/>
-    
-      <category term="信度" scheme="http://yoursite.com/tags/%E4%BF%A1%E5%BA%A6/"/>
-    
-      <category term="效度" scheme="http://yoursite.com/tags/%E6%95%88%E5%BA%A6/"/>
     
   </entry>
   
